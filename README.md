@@ -57,7 +57,7 @@ It later evolved into voluntary markets and cap-and-trade systems, allowing comp
 ## Demo
 
 
-https://github.com/user-attachments/assets/005bb354-3b01-4fb7-8a1e-faca3fd4ae2f
+<!-- https://github.com/user-attachments/assets/005bb354-3b01-4fb7-8a1e-faca3fd4ae2f -->
 
 
 
