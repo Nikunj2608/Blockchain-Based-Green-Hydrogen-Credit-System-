@@ -46,7 +46,7 @@ It later evolved into voluntary markets and cap-and-trade systems, allowing comp
 4. Once the NGO completes the promised project, it can expire all credits associated with that project.
    - Once the NGO completes the promised project, it can expire all credits associated with that project.
    - The web app generates a certificate verifying the credit purchase and acknowledging the person’s contribution to offsetting specific amount of carbon.
-
+<!-- 
 ### Workflow Diagram:
 ![Flow diagram](https://github.com/user-attachments/assets/150eb965-a285-4da7-a434-14eb18890f79)
 <br>
@@ -59,7 +59,7 @@ It later evolved into voluntary markets and cap-and-trade systems, allowing comp
 
 <!-- https://github.com/user-attachments/assets/005bb354-3b01-4fb7-8a1e-faca3fd4ae2f -->
 
-
+ -->
 
 
 

@@ -307,7 +307,7 @@ def get_portfolio_analytics():
     
     total_invested = 0
     current_value = 0
-            hydrogen_offset = 0
+    hydrogen_offset = 0
     credits_count = len(purchased_credits)
     
     for pc in purchased_credits:
